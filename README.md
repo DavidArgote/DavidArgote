@@ -10,3 +10,10 @@ I Like:
 - Android
 - Vue.js
 - Node.js
+- Java
+
+Learning...
+
+- Android whith kotlin
+- Design patterns
+- Architecture software
