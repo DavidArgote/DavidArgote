@@ -14,6 +14,6 @@ I Like:
 
 Learning...
 
-- Android whith kotlin
+- Android with kotlin
 - Design patterns
 - Architecture software
