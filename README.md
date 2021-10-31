@@ -5,11 +5,12 @@ I really like Android and it's what I'm currently learning, getting closer and c
 
 I Like:
 
-- Javascript
+- Javascript / TypeScript
 - Kotlin
 - Android
 - Vue.js
 - Node.js
+- MySQL
 - Java
 
 Learning...
@@ -17,3 +18,5 @@ Learning...
 - Android with kotlin
 - Design patterns
 - Architecture software
+- Fronted with React.js
+- Mobile with React Native
