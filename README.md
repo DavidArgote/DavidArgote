@@ -17,4 +17,4 @@ Learning:
 - Fronted with React.js
 - Mobile with React Native
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidArgote)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argote-dev)]()
