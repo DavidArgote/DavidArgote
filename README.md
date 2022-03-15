@@ -1,6 +1,6 @@
 *👋 Hi, I’m David Argote*
 
-I really like Android and it's what I'm currently learning, getting closer and closer to being a pro 🤣.
+I really like Android and mobile development (IOS). I also develop in front-end frameworks like Angular and Vue.
 
 I Like:
 - Javascript / TypeScript
@@ -8,13 +8,12 @@ I Like:
 - Android
 - Vue.js / Angular
 - Node.js
-- MySQL / Oracle
+- MySQL / Oracle / Firebase / 
 
 Learning:
 - Android with kotlin
 - Design patterns
 - Architecture software
-- Fronted with React.js
-- Mobile with React Native
+- Fronted with Angular 8+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argote-dev)]()
