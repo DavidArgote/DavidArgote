@@ -15,5 +15,3 @@ Learning:
 - iOS with swift
 - Design patterns
 - Architecture software
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argote-dev)]()
