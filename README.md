@@ -3,12 +3,13 @@
 Passionate about mobile development and computer science student.
 
 I Like:
-- Kotlin / Swift
-- Android / iOS
+- Kotlin
+- Android
+- Compose
+- Clean Architecture, MVI, MVVM.
 
 Currently Learning:
 - Android development with Kotlin
-- iOS development with Swift
 - Design patterns
 - Software architecture
 
